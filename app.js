@@ -39,6 +39,11 @@ function switchTab(tabName) {
     const activeTab = document.getElementById(`tab-${tabName}`);
     activeTab.classList.add('tab-active');
     activeTab.classList.remove('tab-inactive');
+    
+    // Auto-calculate lost games when switching to migration tab
+    if (tabName === 'migration' && games.length > 0) {
+        calculateLostGames();
+    }
 }
 
 // Setup search listener
@@ -71,21 +76,30 @@ function displayFilteredGames(query) {
         return;
     }
     
-    searchResults.innerHTML = filteredGames.map(game => `
-        <div class="bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition">
-            <h3 class="font-bold text-lg text-gray-900 mb-3">${game.title}</h3>
-            <div class="flex flex-wrap gap-2">
-                ${game.plans.map(plan => {
-                    const planNames = {
-                        'essentials': 'Essentials',
-                        'premium': 'Premium',
-                        'ultimate': 'Ultimate'
-                    };
-                    return `<span class="plan-badge plan-${plan}">${planNames[plan]}</span>`;
-                }).join('')}
+    searchResults.innerHTML = filteredGames.map(game => {
+        const searchUrl = `https://www.xbox.com/pl-pl/Search/Results?q=${encodeURIComponent(game.title)}`;
+        const planIcons = {
+            'essentials': '<span title="Essentials">🪙</span>',
+            'premium': '<span title="Premium">💰</span>',
+            'ultimate': '<span title="Ultimate">💵</span>'
+        };
+        return `
+        <div class="bg-white rounded-lg shadow-sm p-3 hover:shadow-md transition border border-gray-200">
+            <div class="flex items-center justify-between gap-3">
+                <h3 class="font-semibold text-base text-gray-900 flex-1">${game.title}</h3>
+                <div class="flex items-center gap-2 flex-shrink-0">
+                    <div class="flex items-center">
+                        ${game.plans.map(plan => planIcons[plan]).join('<span class="text-gray-400 mx-1">/</span>')}
+                    </div>
+                    <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" 
+                       class="text-blue-600 hover:text-blue-800" title="Wyszukaj w sklepie">
+                        🔍
+                    </a>
+                </div>
             </div>
         </div>
-    `).join('');
+    `;
+    }).join('');
 }
 
 // Display games by plan in compare tab
@@ -101,11 +115,20 @@ function displayGamesByPlan() {
         
         container.innerHTML = gamesInPlan
             .sort((a, b) => a.title.localeCompare(b.title))
-            .map(game => `
+            .map(game => {
+                const searchUrl = `https://www.xbox.com/pl-pl/Search/Results?q=${encodeURIComponent(game.title)}`;
+                return `
                 <div class="text-sm text-gray-700 py-2 border-b border-gray-100 last:border-0">
-                    ${game.title}
+                    <div class="flex justify-between items-center">
+                        <span>${game.title}</span>
+                        <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" 
+                           class="text-blue-600 hover:text-blue-800 text-xs" title="Wyszukaj w sklepie">
+                            🔍
+                        </a>
+                    </div>
                 </div>
-            `).join('');
+            `;
+            }).join('');
     });
 }
 
@@ -153,7 +176,7 @@ function calculateLostGames() {
     const lostGamesResult = document.getElementById('lostGamesResult');
     const noLostGames = document.getElementById('noLostGames');
     const lostGamesList = document.getElementById('lostGamesList');
-    const lostGamesCount = document.getElementById('lostGamesCount');
+    const lostGamesTitle = document.getElementById('lostGamesTitle');
     
     if (lostGames.length === 0) {
         lostGamesResult.classList.add('hidden');
@@ -162,26 +185,41 @@ function calculateLostGames() {
         noLostGames.classList.add('hidden');
         lostGamesResult.classList.remove('hidden');
         
-        lostGamesCount.textContent = lostGames.length;
+        lostGamesTitle.textContent = `⚠️ Utracisz dostęp do następujących ${lostGames.length} gier:`;
         lostGamesList.innerHTML = lostGames
             .sort((a, b) => a.title.localeCompare(b.title))
-            .map(game => `
+            .map(game => {
+                const searchUrl = `https://www.xbox.com/pl-pl/Search/Results?q=${encodeURIComponent(game.title)}`;
+                const planIcons = {
+                    'essentials': '<span title="Essentials">🪙</span>',
+                    'premium': '<span title="Premium">💰</span>',
+                    'ultimate': '<span title="Ultimate">💵</span>'
+                };
+                return `
                 <div class="bg-white rounded-lg p-3 border border-red-200">
-                    <p class="font-semibold text-gray-900">${game.title}</p>
-                    <div class="flex flex-wrap gap-1 mt-2">
-                        ${game.plans.map(plan => {
-                            const planNames = {
-                                'essentials': 'Essentials',
-                                'premium': 'Premium',
-                                'ultimate': 'Ultimate'
-                            };
-                            return `<span class="plan-badge plan-${plan} text-xs">${planNames[plan]}</span>`;
-                        }).join('')}
+                    <div class="flex items-center justify-between gap-3">
+                        <p class="font-semibold text-gray-900 flex-1">${game.title}</p>
+                        <div class="flex items-center gap-2 flex-shrink-0">
+                            <div class="flex items-center">
+                                ${game.plans.map(plan => planIcons[plan]).join('<span class="text-gray-400 mx-1">/</span>')}
+                            </div>
+                            <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" 
+                               class="text-blue-600 hover:text-blue-800" title="Wyszukaj w sklepie">
+                                🔍
+                            </a>
+                        </div>
                     </div>
                 </div>
-            `).join('');
+            `;
+            }).join('');
     }
 }
 
 // Load games when page loads
-document.addEventListener('DOMContentLoaded', loadGames);
+document.addEventListener('DOMContentLoaded', () => {
+    loadGames();
+    
+    // Set default values for migration tab
+    document.getElementById('currentPlan').value = 'ultimate';
+    document.getElementById('newPlan').value = 'premium';
+});

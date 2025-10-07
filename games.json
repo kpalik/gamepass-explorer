@@ -1,102 +1,4778 @@
 [
   {
     "id": 1,
-    "title": "Starfield",
-    "plans": ["ultimate"]
+    "title": "A Plague Tale: Requiem",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/A-Plague-Tale-Requiem/9NBLGGH5N5XJ"
   },
   {
     "id": 2,
-    "title": "Forza Horizon 5",
-    "plans": ["essentials", "premium", "ultimate"]
+    "title": "A Way Out",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/A-Way-Out/9NBLGGH5N5XJ"
   },
   {
     "id": 3,
-    "title": "Halo Infinite",
-    "plans": ["essentials", "premium", "ultimate"]
+    "title": "Abiotic Factor",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Abiotic+Factor"
   },
   {
     "id": 4,
-    "title": "Minecraft",
-    "plans": ["essentials", "premium", "ultimate"]
+    "title": "Against the Storm",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Against+the+Storm"
   },
   {
     "id": 5,
-    "title": "Sea of Thieves",
-    "plans": ["essentials", "premium", "ultimate"]
+    "title": "Age of Empires II: Definitive Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Age-of-Empires-II-Definitive-Edition/9NBLGGH5N5XJ"
   },
   {
     "id": 6,
-    "title": "Grounded",
-    "plans": ["essentials", "premium", "ultimate"]
+    "title": "Age of Empires IV: Anniversary Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Age-of-Empires-IV/9NBLGGH5N5XJ"
   },
   {
     "id": 7,
-    "title": "Diablo IV",
-    "plans": ["premium", "ultimate"]
+    "title": "Age of Mythology: Retold",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Age-of-Mythology-Retold/9NBLGGH5N5XJ"
   },
   {
     "id": 8,
-    "title": "Call of Duty: Modern Warfare III",
-    "plans": ["premium", "ultimate"]
+    "title": "Alice: Madness Returns",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Alice-Madness-Returns/9NBLGGH5N5XJ"
   },
   {
     "id": 9,
-    "title": "Lies of P",
-    "plans": ["premium", "ultimate"]
+    "title": "Aliens: Dark Descent",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Aliens:+Dark+Descent"
   },
   {
     "id": 10,
-    "title": "Payday 3",
-    "plans": ["premium", "ultimate"]
+    "title": "Aliens: Fireteam Elite",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Aliens-Fireteam-Elite/9NBLGGH5N5XJ"
   },
   {
     "id": 11,
-    "title": "Persona 5 Royal",
-    "plans": ["premium", "ultimate"]
+    "title": "Among Us",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Among-Us/9NBLGGH5N5XJ"
   },
   {
     "id": 12,
-    "title": "Atomic Heart",
-    "plans": ["premium", "ultimate"]
+    "title": "Anno 1800 Console Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Anno+1800+Console+Edition"
   },
   {
     "id": 13,
-    "title": "Hi-Fi Rush",
-    "plans": ["premium", "ultimate"]
+    "title": "Another Crab's Treasure",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Another-Crabs-Treasure/9NBLGGH5N5XJ"
   },
   {
     "id": 14,
-    "title": "A Plague Tale: Requiem",
-    "plans": ["premium", "ultimate"]
+    "title": "ARK: Survival Ascended",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/ARK-Survival-Ascended/9NBLGGH5N5XJ"
   },
   {
     "id": 15,
-    "title": "Pentiment",
-    "plans": ["premium", "ultimate"]
+    "title": "ARK: Survival Evolved",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/ARK-Survival-Evolved/9NBLGGH5N5XJ"
   },
   {
     "id": 16,
-    "title": "Redfall",
-    "plans": ["ultimate"]
+    "title": "Army of TWO",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Army-of-Two/9NBLGGH5N5XJ"
   },
   {
     "id": 17,
-    "title": "Age of Empires IV",
-    "plans": ["ultimate"]
+    "title": "Army of TWO",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Army+of+TWO"
   },
   {
     "id": 18,
-    "title": "Microsoft Flight Simulator",
-    "plans": ["ultimate"]
+    "title": "Army of TWO (EU)",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Army-of-Two-European/9NBLGGH5N5XJ"
   },
   {
     "id": 19,
-    "title": "Gears 5",
-    "plans": ["ultimate"]
+    "title": "As Dusk Falls",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/As-Dusk-Falls/9NBLGGH5N5XJ"
   },
   {
     "id": 20,
+    "title": "Ashen",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Ashen/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 21,
+    "title": "Asphalt Legends Unite",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Asphalt-9/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 22,
+    "title": "Assassin's Creed Chronicles: China",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Chronicles-China/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 23,
+    "title": "Assassin's Creed Chronicles: India",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Chronicles-India/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 24,
+    "title": "Assassin's Creed Chronicles: Russia",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Chronicles-Russia/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 25,
+    "title": "Assassin's Creed III Remastered",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-III-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 26,
+    "title": "Assassin's Creed IV: Black Flag",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-IV-Black-Flag/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 27,
+    "title": "Assassin's Creed Mirage",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Mirage/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 28,
+    "title": "Assassin's Creed Odyssey",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Odyssey/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 29,
+    "title": "Assassin's Creed Origins",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Origins/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 30,
+    "title": "Assassin's Creed Rogue Remastered",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Rogue-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 31,
+    "title": "Assassin's Creed Syndicate",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Syndicate/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 32,
+    "title": "Assassin's Creed The Ezio Collection",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-The-Ezio-Collection/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 33,
+    "title": "Assassin's Creed Unity",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Unity/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 34,
+    "title": "Assassin's Creed Valhalla",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Assassins-Creed-Valhalla/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 35,
+    "title": "Astroneer",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Astroneer/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 36,
+    "title": "Atlas Fallen",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Atlas-Fallen/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 37,
+    "title": "Atomfall",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Atomfall/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 38,
+    "title": "Avowed",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Avowed/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 39,
+    "title": "Back to the Dawn",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Back+to+the+Dawn"
+  },
+  {
+    "id": 40,
+    "title": "Balatro",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Balatro/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 41,
+    "title": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Baldur's+Gate+and+Baldur's+Gate+II:+Enhanced+Editions"
+  },
+  {
+    "id": 42,
+    "title": "Banjo-Kazooie",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Banjo-Kazooie/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 43,
+    "title": "Banjo-Kazooie: Nuts & Bolts",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Banjo-Kazooie-Nuts-and-Bolts/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 44,
+    "title": "Banjo-Tooie",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Banjo-Tooie/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 45,
+    "title": "Barbie Project Friendship",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Barbie+Project+Friendship"
+  },
+  {
+    "id": 46,
+    "title": "Batman: Arkham Knight",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Batman-Arkham-Knight/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 47,
+    "title": "Battlefield 1",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battlefield-1/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 48,
+    "title": "Battlefield 2042",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battlefield-2042/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 49,
+    "title": "Battlefield 2042 (Xbox One)",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battlefield-2042-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 50,
+    "title": "Battlefield 3",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battlefield-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 51,
+    "title": "Battlefield 4",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battlefield-4/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 52,
+    "title": "Battlefield Hardline",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battlefield-Hardline/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 53,
+    "title": "Battlefield V",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battlefield-V/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 54,
+    "title": "Battletoads",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Battletoads/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 55,
+    "title": "Bejeweled 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Bejeweled+2"
+  },
+  {
+    "id": 56,
+    "title": "Bejeweled 3",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Bejeweled-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 57,
+    "title": "Bleeding Edge",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Bleeding-Edge/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 58,
+    "title": "Blizzard Arcade Collection",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Blizzard+Arcade+Collection"
+  },
+  {
+    "id": 59,
+    "title": "Blue Prince",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Blue+Prince"
+  },
+  {
+    "id": 60,
+    "title": "Bluey: The Videogame",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Bluey-The-Videogame/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 61,
+    "title": "Broken Age",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Broken+Age"
+  },
+  {
+    "id": 62,
+    "title": "Brotato",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Brotato/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 63,
+    "title": "Brütal Legend",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Brutal-Legend/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 64,
+    "title": "Burnout Paradise",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Burnout-Paradise/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 65,
+    "title": "Burnout Paradise Remastered",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Burnout-Paradise-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 66,
+    "title": "Call of Duty",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Call-of-Duty/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 67,
+    "title": "Call of Duty: Modern Warfare II",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Call+of+Duty:+Modern+Warfare+II"
+  },
+  {
+    "id": 68,
+    "title": "Call of Duty: Modern Warfare III",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Call-of-Duty-Modern-Warfare-III/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 69,
+    "title": "Call of Duty: WWII",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Call-of-Duty-WWII/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 70,
+    "title": "Call of the Wild: The Angler",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Call-of-the-Wild-The-Angler/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 71,
+    "title": "Car Mechanic Simulator 2021",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Car-Mechanic-Simulator-2021/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 72,
+    "title": "Carrion",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Carrion/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 73,
+    "title": "Celeste",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Celeste/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 74,
+    "title": "Chained Echoes",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Chained+Echoes"
+  },
+  {
+    "id": 75,
+    "title": "Child of Light",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Child-of-Light/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 76,
+    "title": "Chivalry 2",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Chivalry-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 77,
+    "title": "Cities: Skylines",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Cities-Skylines/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 78,
+    "title": "Cities: Skylines - Remastered",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Cities-Skylines-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 79,
+    "title": "Citizen Sleeper",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Citizen+Sleeper"
+  },
+  {
+    "id": 80,
+    "title": "Citizen Sleeper 2: Starward Vector",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Citizen+Sleeper+2:+Starward+Vector"
+  },
+  {
+    "id": 81,
+    "title": "Clair Obscur: Expedition 33",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Clair-Obscur-Expedition-33/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 82,
+    "title": "Clone Drone in the Danger Zone",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Clone+Drone+in+the+Danger+Zone"
+  },
+  {
+    "id": 83,
+    "title": "Cocoon",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Cocoon/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 84,
+    "title": "Commandos: Origins",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Commandos:+Origins"
+  },
+  {
+    "id": 85,
+    "title": "Contrast",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Contrast/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 86,
+    "title": "Control",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Control-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 87,
+    "title": "Control: Ultimate Edition",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Control/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 88,
+    "title": "Cooking Simulator",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Cooking-Simulator/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 89,
+    "title": "Core Keeper",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Core-Keeper/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 90,
+    "title": "Costume Quest",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Costume+Quest"
+  },
+  {
+    "id": 91,
+    "title": "Costume Quest 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Costume-Quest-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 92,
+    "title": "Crackdown 3: Campaign",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crackdown-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 93,
+    "title": "Crackdown 3: Wrecking Zone",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Crackdown+3:+Wrecking+Zone"
+  },
+  {
+    "id": 94,
+    "title": "Crash Bandicoot 4: It's About Time",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crash-Bandicoot-4-Its-About-Time/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 95,
+    "title": "Crash Bandicoot N. Sane Trilogy",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crash-Bandicoot-N-Sane-Trilogy/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 96,
+    "title": "Crash Team Racing Nitro-Fueled",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crash-Team-Racing-Nitro-Fueled/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 97,
+    "title": "Creatures of Ava",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Creatures+of+Ava"
+  },
+  {
+    "id": 98,
+    "title": "Cricket 24",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Cricket+24"
+  },
+  {
+    "id": 99,
+    "title": "Crime Scene Cleaner",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crime-Scene-Cleaner/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 100,
+    "title": "Crusader Kings III",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Crusader+Kings+III"
+  },
+  {
+    "id": 101,
+    "title": "Crypt Custodian",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Crypt+Custodian"
+  },
+  {
+    "id": 102,
+    "title": "Crysis",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crysis/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 103,
+    "title": "Crysis 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crysis-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 104,
+    "title": "Crysis 3",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Crysis-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 105,
+    "title": "Dante's Inferno",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dantes-Inferno/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 106,
+    "title": "Day of the Tentacle Remastered",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Day-of-the-Tentacle-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 107,
+    "title": "DayZ",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/DayZ/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 108,
+    "title": "Dead by Daylight",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dead-by-Daylight/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 109,
+    "title": "Dead Cells",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dead-Cells/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 110,
+    "title": "Dead Island 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dead-Island-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 111,
+    "title": "Dead Space",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dead-Space/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 112,
+    "title": "Dead Space (2008)",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dead-Space-Xbox-360/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 113,
+    "title": "Dead Space 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dead-Space-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 114,
+    "title": "Dead Space 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Dead+Space+2"
+  },
+  {
+    "id": 115,
+    "title": "Dead Space 3",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dead-Space-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 116,
+    "title": "Dead Space: Ignition",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Dead+Space:+Ignition"
+  },
+  {
+    "id": 117,
+    "title": "DEATHLOOP",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Deathloop/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 118,
+    "title": "Deep Rock Galactic",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Deep-Rock-Galactic/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 119,
+    "title": "Deep Rock Galactic: Survivor",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Deep+Rock+Galactic:+Survivor"
+  },
+  {
+    "id": 120,
+    "title": "Descenders",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Descenders/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 121,
+    "title": "Diablo III: Reaper of Souls - Ultimate Evil Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Diablo-III-Reaper-of-Souls-Ultimate-Evil-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 122,
+    "title": "Diablo IV",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Diablo-IV/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 123,
+    "title": "DiRT Rally 2.0",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=DiRT+Rally+2.0"
+  },
+  {
+    "id": 124,
+    "title": "Dishonored 2",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dishonored-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 125,
+    "title": "Dishonored Definitive Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dishonored-Definitive-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 126,
+    "title": "Dishonored: Death of the Outsider",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Dishonored:+Death+of+the+Outsider"
+  },
+  {
+    "id": 127,
+    "title": "Disney Dreamlight Valley",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Disney-Dreamlight-Valley/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 128,
+    "title": "Disneyland Adventures",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Disneyland-Adventures-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 129,
+    "title": "Donut County",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Donut-County/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 130,
+    "title": "DOOM",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/DOOM/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 131,
+    "title": "DOOM + DOOM II",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/DOOM-and-DOOM-II/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 132,
+    "title": "DOOM 3",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=DOOM+3"
+  },
+  {
+    "id": 133,
+    "title": "DOOM 64",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/DOOM-64/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 134,
+    "title": "DOOM Eternal",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Doom-Eternal/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 135,
+    "title": "DOOM II: Hell on Earth",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=DOOM+II:+Hell+on+Earth"
+  },
+  {
+    "id": 136,
+    "title": "DOOM: The Dark Ages",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/DOOM-The-Dark-Ages/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 137,
+    "title": "Dragon Age II",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dragon-Age-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 138,
+    "title": "Dragon Age: Inquisition",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dragon-Age-Inquisition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 139,
+    "title": "Dragon Age: Origins",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dragon-Age-Origins/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 140,
+    "title": "Dragon Age: The Veilguard",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Dragon+Age:+The+Veilguard"
+  },
+  {
+    "id": 141,
+    "title": "Dragon Ball Xenoverse 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Dragon-Ball-Xenoverse-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 142,
+    "title": "DREDGE",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/DREDGE/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 143,
+    "title": "Dungeons of Hinterberg",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Dungeons+of+Hinterberg"
+  },
+  {
+    "id": 144,
+    "title": "EA SPORTS College Football 25",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/EA-SPORTS-College-Football-25/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 145,
+    "title": "EA SPORTS FC 24",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/EA-SPORTS-FC-24/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 146,
+    "title": "EA SPORTS FC 24 (Xbox One)",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/EA-SPORTS-FC-24-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 147,
+    "title": "EA SPORTS PGA Tour",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=EA+SPORTS+PGA+Tour"
+  },
+  {
+    "id": 148,
+    "title": "EA SPORTS UFC 4",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/EA-SPORTS-UFC-4/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 149,
+    "title": "EA SPORTS UFC 5",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/EA-SPORTS-UFC-5/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 150,
+    "title": "EA SPORTS WRC",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=EA+SPORTS+WRC"
+  },
+  {
+    "id": 151,
+    "title": "Edge of Eternity",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Edge+of+Eternity"
+  },
+  {
+    "id": 152,
+    "title": "Eiyuden Chronicle: Hundred Heroes",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Eiyuden+Chronicle:+Hundred+Heroes"
+  },
+  {
+    "id": 153,
+    "title": "Enlisted",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Enlisted/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 154,
+    "title": "Enter the Gungeon",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Enter-the-Gungeon/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 155,
+    "title": "Eternal Strands",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Eternal+Strands"
+  },
+  {
+    "id": 156,
+    "title": "Expeditions: A MudRunner Game",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Expeditions-A-MudRunner-Game/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 157,
+    "title": "F1 23",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/F1-23/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 158,
+    "title": "Fable Anniversary",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fable-Anniversary/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 159,
+    "title": "Fable II",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fable-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 160,
+    "title": "Fable III",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fable-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 161,
+    "title": "Fallout 3",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fallout-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 162,
+    "title": "Fallout 4",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fallout-4/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 163,
+    "title": "Fallout 76",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fallout-76/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 164,
+    "title": "Fallout: New Vegas",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fallout-New-Vegas/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 165,
+    "title": "Far Cry 3 Blood Dragon Classic Edition",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Far-Cry-3-Blood-Dragon-Classic-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 166,
+    "title": "Far Cry 3 Classic Edition",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Far-Cry-3-Classic-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 167,
+    "title": "Far Cry 4",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Far-Cry-4/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 168,
+    "title": "Far Cry 5",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Far-Cry-5/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 169,
+    "title": "Far Cry 6",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Far-Cry-6/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 170,
+    "title": "Far Cry New Dawn",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Far-Cry-New-Dawn/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 171,
+    "title": "Far Cry Primal",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Far-Cry-Primal/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 172,
+    "title": "Farming Simulator 25",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Farming+Simulator+25"
+  },
+  {
+    "id": 173,
+    "title": "FBC: Firebreak",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/FBC-Firebreak/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 174,
+    "title": "Fe",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Fe"
+  },
+  {
+    "id": 175,
+    "title": "Feeding Frenzy",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Feeding-Frenzy/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 176,
+    "title": "Feeding Frenzy 2: Shipwreck Showdown",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Feeding-Frenzy-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 177,
+    "title": "Fight Night Champion",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Fight-Night-Champion/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 178,
+    "title": "Firefighting Simulator - The Squad",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Firefighting+Simulator+-+The+Squad"
+  },
+  {
+    "id": 179,
+    "title": "Firewatch",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Firewatch/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 180,
+    "title": "Flintlock: The Siege of Dawn",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Flintlock:+The+Siege+of+Dawn"
+  },
+  {
+    "id": 181,
+    "title": "Football Manager 2024 Console",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Football+Manager+2024+Console"
+  },
+  {
+    "id": 182,
+    "title": "For Honor",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/For-Honor/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 183,
+    "title": "For The King II",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/For-The-King-II/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 184,
+    "title": "Forza Horizon 5",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Forza-Horizon-5/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 185,
     "title": "Forza Motorsport",
-    "plans": ["ultimate"]
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Forza-Motorsport/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 186,
+    "title": "FragPunk",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=FragPunk"
+  },
+  {
+    "id": 187,
+    "title": "Frostpunk 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Frostpunk+2"
+  },
+  {
+    "id": 188,
+    "title": "Frostpunk: Console Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Frostpunk:+Console+Edition"
+  },
+  {
+    "id": 189,
+    "title": "Full Throttle Remastered",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Full-Throttle-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 190,
+    "title": "Galacticare",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Galacticare"
+  },
+  {
+    "id": 191,
+    "title": "Gang Beasts",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gang-Beasts/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 192,
+    "title": "Gears 5",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-5/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 193,
+    "title": "Gears of War",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-of-War/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 194,
+    "title": "Gears of War 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-of-War-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 195,
+    "title": "Gears of War 3",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-of-War-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 196,
+    "title": "Gears of War 4",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-of-War-4/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 197,
+    "title": "Gears of War: Judgment",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-of-War-Judgment/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 198,
+    "title": "Gears of War: Reloaded",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-of-War-Reloaded/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 199,
+    "title": "Gears of War: Ultimate Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-of-War-Ultimate-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 200,
+    "title": "Gears Tactics",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Gears-Tactics/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 201,
+    "title": "Generation Zero",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Generation-Zero/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 202,
+    "title": "Genesis Noir",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Genesis+Noir"
+  },
+  {
+    "id": 203,
+    "title": "Genshin Impact",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Genshin+Impact"
+  },
+  {
+    "id": 204,
+    "title": "Ghostwire: Tokyo",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Ghostwire-Tokyo/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 205,
+    "title": "Go Mecha Ball",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Go+Mecha+Ball"
+  },
+  {
+    "id": 206,
+    "title": "Goat Simulator",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Goat-Simulator/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 207,
+    "title": "Goat Simulator 3",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Goat-Simulator-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 208,
+    "title": "Goat Simulator 3: Xbox One Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Goat+Simulator+3:+Xbox+One+Edition"
+  },
+  {
+    "id": 209,
+    "title": "Goat Simulator: Remastered",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Goat+Simulator:+Remastered"
+  },
+  {
+    "id": 210,
+    "title": "GoldenEye 007",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/GoldenEye-007/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 211,
+    "title": "Golf With Your Friends",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Golf-With-Your-Friends/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 212,
+    "title": "Grand Theft Auto V",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Grand-Theft-Auto-V/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 213,
+    "title": "Grand Theft Auto V",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Grand+Theft+Auto+V"
+  },
+  {
+    "id": 214,
+    "title": "Grand Theft Auto V (Xbox One)",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Grand-Theft-Auto-V-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 215,
+    "title": "GRID Legends",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/GRID-Legends/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 216,
+    "title": "Grim Fandango Remastered",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Grim+Fandango+Remastered"
+  },
+  {
+    "id": 217,
+    "title": "Grounded",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Grounded/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 218,
+    "title": "Hades",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Hades/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 219,
+    "title": "Halo 5: Guardians",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Halo-5-Guardians/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 220,
+    "title": "Halo Infinite",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Halo-Infinite/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 221,
+    "title": "Halo Wars 2",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Halo-Wars-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 222,
+    "title": "Halo Wars: Definitive Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Halo-Wars-Definitive-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 223,
+    "title": "Halo: Spartan Assault",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Halo-Spartan-Assault/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 224,
+    "title": "Halo: The Master Chief Collection",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Halo-The-Master-Chief-Collection/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 225,
+    "title": "Heavy Weapon",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Heavy-Weapon/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 226,
+    "title": "Hell Let Loose",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Hell-Let-Loose/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 227,
+    "title": "Hellblade: Senua's Sacrifice",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Hellblade-Senuas-Sacrifice/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 228,
+    "title": "Herdling",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Herdling"
+  },
+  {
+    "id": 229,
+    "title": "Heretic + Hexen",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Heretic+++Hexen"
+  },
+  {
+    "id": 230,
+    "title": "Hi-Fi RUSH",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/HiFi-Rush/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 231,
+    "title": "High On Life",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/High-On-Life/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 232,
+    "title": "Hogwarts Legacy",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Hogwarts-Legacy/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 233,
+    "title": "Hollow Knight: Silksong",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Hollow-Knight-Silksong/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 234,
+    "title": "Hollow Knight: Voidheart Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Hollow-Knight/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 235,
+    "title": "House Flipper",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/House-Flipper/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 236,
+    "title": "Human Fall Flat",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Human-Fall-Flat/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 237,
+    "title": "Hungry Shark World",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Hungry-Shark-World/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 238,
+    "title": "Hunt: Showdown 1896",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Hunt:+Showdown+1896"
+  },
+  {
+    "id": 239,
+    "title": "I Am Your Beast",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=I+Am+Your+Beast"
+  },
+  {
+    "id": 240,
+    "title": "Immortality",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Immortality"
+  },
+  {
+    "id": 241,
+    "title": "Immortals Fenyx Rising",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Immortals-Fenyx-Rising/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 242,
+    "title": "Immortals of Aveum",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Immortals+of+Aveum"
+  },
+  {
+    "id": 243,
+    "title": "Indiana Jones and the Great Circle",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Indiana-Jones-and-the-Great-Circle/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 244,
+    "title": "Injustice 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Injustice-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 245,
+    "title": "Inscryption",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Inscryption/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 246,
+    "title": "INSIDE",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Inside/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 247,
+    "title": "Iron Brigade",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Iron-Brigade/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 248,
+    "title": "It Takes Two",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/It-Takes-Two/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 249,
+    "title": "Jetpac Refuelled",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Jetpac-Refuelled/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 250,
+    "title": "Joy Ride Turbo",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Joy-Ride-Turbo/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 251,
+    "title": "Jurassic World Evolution 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Jurassic-World-Evolution-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 252,
+    "title": "Jusant",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Jusant/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 253,
+    "title": "Kameo: Elements of Power",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Kameo/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 254,
+    "title": "Killer Instinct",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Killer-Instinct/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 255,
+    "title": "Killer Instinct 2 Classic",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Killer+Instinct+2+Classic"
+  },
+  {
+    "id": 256,
+    "title": "Killer Instinct Classic",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Killer+Instinct+Classic"
+  },
+  {
+    "id": 257,
+    "title": "Kingdom Two Crowns",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Kingdom-Two-Crowns/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 258,
+    "title": "Knights and Bikes",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Knights+and+Bikes"
+  },
+  {
+    "id": 259,
+    "title": "Kulebra and the Souls of Limbo",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Kulebra+and+the+Souls+of+Limbo"
+  },
+  {
+    "id": 260,
+    "title": "Lara Croft and the Guardian of Light",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Lara-Croft-Guardian-of-Light/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 261,
+    "title": "Legend of Mana",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Legend+of+Mana"
+  },
+  {
+    "id": 262,
+    "title": "LEGO Star Wars: The Skywalker Saga",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/LEGO-Star-Wars-The-Skywalker-Saga/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 263,
+    "title": "LIMBO",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/LIMBO/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 264,
+    "title": "Little Kitty, Big City",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Little-Kitty-Big-City/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 265,
+    "title": "Little Nightmares II",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Little+Nightmares+II"
+  },
+  {
+    "id": 266,
+    "title": "Lonely Mountains: Snow Riders",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Lonely-Mountains-Snow-Riders/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 267,
+    "title": "Lords of the Fallen",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Lords-of-the-Fallen/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 268,
+    "title": "Lost In Random",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Lost-In-Random/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 269,
+    "title": "Lost in Random: The Eternal Die",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Lost+in+Random:+The+Eternal+Die"
+  },
+  {
+    "id": 270,
+    "title": "Mad Streets",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Mad+Streets"
+  },
+  {
+    "id": 271,
+    "title": "Madden NFL 24",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Madden+NFL+24"
+  },
+  {
+    "id": 272,
+    "title": "Madden NFL 24",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Madden+NFL+24"
+  },
+  {
+    "id": 273,
+    "title": "Mass Effect",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mass-Effect/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 274,
+    "title": "Mass Effect 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mass-Effect-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 275,
+    "title": "Mass Effect 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Mass+Effect+2"
+  },
+  {
+    "id": 276,
+    "title": "Mass Effect 3",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mass-Effect-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 277,
+    "title": "Mass Effect Legendary Edition",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mass-Effect-Legendary-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 278,
+    "title": "Mass Effect: Andromeda",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mass-Effect-Andromeda/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 279,
+    "title": "MASSIVE CHALICE",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/MASSIVE-CHALICE/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 280,
+    "title": "Max: The Curse of Brotherhood",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Max-The-Curse-of-Brotherhood/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 281,
+    "title": "Mecha BREAK",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Mecha+BREAK"
+  },
+  {
+    "id": 282,
+    "title": "MechWarrior 5: Clans",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=MechWarrior+5:+Clans"
+  },
+  {
+    "id": 283,
+    "title": "MechWarrior 5: Mercenaries",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=MechWarrior+5:+Mercenaries"
+  },
+  {
+    "id": 284,
+    "title": "Medal of Honor: Airborne",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Medal-of-Honor-Airborne/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 285,
+    "title": "Medieval Dynasty",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Medieval-Dynasty/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 286,
+    "title": "Medieval Dynasty",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Medieval+Dynasty"
+  },
+  {
+    "id": 287,
+    "title": "Metal Slug Tactics",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Metal+Slug+Tactics"
+  },
+  {
+    "id": 288,
+    "title": "Metaphor: ReFantazio",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Metaphor:+ReFantazio"
+  },
+  {
+    "id": 289,
+    "title": "Microsoft Flight Simulator",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Microsoft-Flight-Simulator/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 290,
+    "title": "Microsoft Flight Simulator 2024",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Microsoft-Flight-Simulator-2024/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 291,
+    "title": "Middle-earth: Shadow of War",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Middle-earth-Shadow-of-War/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 292,
+    "title": "Midnight Fight Express",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Midnight-Fight-Express/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 293,
+    "title": "Minami Lane",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Minami+Lane"
+  },
+  {
+    "id": 294,
+    "title": "Minecraft",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Minecraft/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 295,
+    "title": "Minecraft Dungeons",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Minecraft-Dungeons/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 296,
+    "title": "Minecraft Legends",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Minecraft-Legends/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 297,
+    "title": "Mirror's Edge",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mirrors-Edge/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 298,
+    "title": "Mirror's Edge Catalyst",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mirrors-Edge-Catalyst/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 299,
+    "title": "MONOPOLY 2024",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/MONOPOLY/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 300,
+    "title": "MONOPOLY Madness",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/MONOPOLY-Madness/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 301,
+    "title": "Monster Sanctuary",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Monster-Sanctuary/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 302,
+    "title": "Monster Train",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Monster+Train"
+  },
+  {
+    "id": 303,
+    "title": "Monster Train 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Monster+Train+2"
+  },
+  {
+    "id": 304,
+    "title": "Moonlighter",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Moonlighter"
+  },
+  {
+    "id": 305,
+    "title": "Mortal Kombat 11",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mortal-Kombat-11/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 306,
+    "title": "Mount & Blade II: Bannerlord",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Mount+&+Blade+II:+Bannerlord"
+  },
+  {
+    "id": 307,
+    "title": "Moving Out 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Moving+Out+2"
+  },
+  {
+    "id": 308,
+    "title": "MULLET MADJACK",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Mullet-Madjack/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 309,
+    "title": "My Friendly Neighborhood",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=My+Friendly+Neighborhood"
+  },
+  {
+    "id": 310,
+    "title": "Mythwrecked: Ambrosia Island",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Mythwrecked:+Ambrosia+Island"
+  },
+  {
+    "id": 311,
+    "title": "NARAKA: BLADEPOINT",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Naraka-Bladepoint/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 312,
+    "title": "NBA LIVE 19",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/NBA-LIVE-19/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 313,
+    "title": "Need for Speed",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Need-for-Speed/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 314,
+    "title": "Need for Speed Heat",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Need-for-Speed-Heat/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 315,
+    "title": "Need for Speed Hot Pursuit Remastered",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Need-for-Speed-Hot-Pursuit-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 316,
+    "title": "Need for Speed Payback",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Need-for-Speed-Payback/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 317,
+    "title": "Need for Speed Rivals",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Need-for-Speed-Rivals/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 318,
+    "title": "Need for Speed Unbound",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Need-for-Speed-Unbound/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 319,
+    "title": "Neon Abyss",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Neon-Abyss/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 320,
+    "title": "Neon White",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Neon+White"
+  },
+  {
+    "id": 321,
+    "title": "New Super Lucky's Tale",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/New-Super-Luckys-Tale/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 322,
+    "title": "NHL 23",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=NHL+23"
+  },
+  {
+    "id": 323,
+    "title": "NHL 23",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=NHL+23"
+  },
+  {
+    "id": 324,
+    "title": "NHL 24",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=NHL+24"
+  },
+  {
+    "id": 325,
+    "title": "NHL 24",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=NHL+24"
+  },
+  {
+    "id": 326,
+    "title": "NHL 94 Rewind",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=NHL+94+Rewind"
+  },
+  {
+    "id": 327,
+    "title": "Ni no Kuni II: Revenant Kingdom - The Prince's Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Ni+no+Kuni+II:+Revenant+Kingdom+-+The+Prince's+Edition"
+  },
+  {
+    "id": 328,
+    "title": "Ni no Kuni: Wrath of the White Witch Remastered",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Ni+no+Kuni:+Wrath+of+the+White+Witch+Remastered"
+  },
+  {
+    "id": 329,
+    "title": "Nickelodeon All-Star Brawl 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Nickelodeon+All-Star+Brawl+2"
+  },
+  {
+    "id": 330,
+    "title": "Nine Sols",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Nine+Sols"
+  },
+  {
+    "id": 331,
+    "title": "NINJA GAIDEN 2 Black",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/NINJA-GAIDEN-2-Black/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 332,
+    "title": "No Man's Sky",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/No-Mans-Sky/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 333,
+    "title": "Nuclear Throne",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Nuclear+Throne"
+  },
+  {
+    "id": 334,
+    "title": "OCTOPATH TRAVELER",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Octopath-Traveler/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 335,
+    "title": "OCTOPATH TRAVELER II",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=OCTOPATH+TRAVELER+II"
+  },
+  {
+    "id": 336,
+    "title": "OddBallers",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/OddBallers/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 337,
+    "title": "One Lonely Outpost",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=One+Lonely+Outpost"
+  },
+  {
+    "id": 338,
+    "title": "Orcs Must Die! Deathtrap",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Orcs+Must+Die!+Deathtrap"
+  },
+  {
+    "id": 339,
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Ori-and-the-Blind-Forest-Definitive-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 340,
+    "title": "Ori and the Will of the Wisps",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Ori-and-the-Will-of-the-Wisps/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 341,
+    "title": "Overcooked! 2",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Overcooked-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 342,
+    "title": "Overwatch 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Overwatch/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 343,
+    "title": "PAW Patrol World",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=PAW+Patrol+World"
+  },
+  {
+    "id": 344,
+    "title": "PAYDAY 2: Crimewave Edition",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Payday-2-Crimewave-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 345,
+    "title": "Peggle",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Peggle/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 346,
+    "title": "Peggle 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Peggle-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 347,
+    "title": "Pentiment",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Pentiment"
+  },
+  {
+    "id": 348,
+    "title": "Peppa Pig: World Adventures",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Peppa-Pig-World-Adventures/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 349,
+    "title": "Perfect Dark",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Perfect-Dark-Xbox-360/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 350,
+    "title": "Perfect Dark Zero",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Perfect-Dark-Zero/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 351,
+    "title": "Persona 4 Golden",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Persona+4+Golden"
+  },
+  {
+    "id": 352,
+    "title": "Phoenix Point",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Phoenix+Point"
+  },
+  {
+    "id": 353,
+    "title": "Pillars of Eternity",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Pillars+of+Eternity"
+  },
+  {
+    "id": 354,
+    "title": "Pillars Of Eternity II: Deadfire",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Pillars+Of+Eternity+II:+Deadfire"
+  },
+  {
+    "id": 355,
+    "title": "Planet of Lana",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Planet-of-Lana/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 356,
+    "title": "Plants vs. Zombies",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Plants-vs-Zombies/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 357,
+    "title": "Plants vs. Zombies Garden Warfare",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Plants-vs-Zombies-Garden-Warfare/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 358,
+    "title": "Plants vs. Zombies Garden Warfare 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Plants-vs-Zombies-Garden-Warfare-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 359,
+    "title": "Plants vs. Zombies: Battle for Neighborville",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Plants-vs-Zombies-Battle-for-Neighborville/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 360,
+    "title": "PlateUp!",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/PlateUp/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 361,
+    "title": "Police Simulator: Patrol Officers",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Police-Simulator-Patrol-Officers/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 362,
+    "title": "Potion Craft: Alchemist Simulator",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Potion+Craft:+Alchemist+Simulator"
+  },
+  {
+    "id": 363,
+    "title": "PowerWash Simulator",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/PowerWash-Simulator/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 364,
+    "title": "Prey",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Prey-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 365,
+    "title": "Prince of Persia: The Lost Crown",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Prince-of-Persia-The-Lost-Crown/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 366,
+    "title": "Psychonauts 2",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Psychonauts-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 367,
+    "title": "Quake",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Quake/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 368,
+    "title": "Quake II",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Quake+II"
+  },
+  {
+    "id": 369,
+    "title": "Quantum Break",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Quantum-Break/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 370,
+    "title": "Rabbids Invasion: The Interactive TV Show",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rabbids-Invasion-The-Interactive-TV-Show/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 371,
+    "title": "Rabbids: Party of Legends",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rabbids-Party-of-Legends/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 372,
+    "title": "RAGE",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rage/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 373,
+    "title": "RAGE 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/RAGE-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 374,
+    "title": "Rain World",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Rain+World"
+  },
+  {
+    "id": 375,
+    "title": "Rare Replay",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rare-Replay/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 376,
+    "title": "Rayman Legends",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rayman-Legends/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 377,
+    "title": "ReCore",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/ReCore/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 378,
+    "title": "Redfall",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Redfall/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 379,
+    "title": "REMATCH",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/REMATCH/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 380,
+    "title": "Resident Evil 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Resident-Evil-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 381,
+    "title": "Resident Evil 2: Z Version",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Resident+Evil+2:+Z+Version"
+  },
+  {
+    "id": 382,
+    "title": "Resident Evil 3",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Resident-Evil-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 383,
+    "title": "Resident Evil 3: Z Version",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Resident+Evil+3:+Z+Version"
+  },
+  {
+    "id": 384,
+    "title": "Retro Classics",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Retro-Classics/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 385,
+    "title": "Return to Monkey Island",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Return+to+Monkey+Island"
+  },
+  {
+    "id": 386,
+    "title": "Revenge of the Savage Planet",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Revenge+of+the+Savage+Planet"
+  },
+  {
+    "id": 387,
+    "title": "Riders Republic",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Riders-Republic/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 388,
+    "title": "Rise of the Tomb Raider",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rise-of-the-Tomb-Raider/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 389,
+    "title": "Risk: Urban Assault",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Risk-Urban-Assault/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 390,
+    "title": "Road 96",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Road-96/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 391,
+    "title": "RoadCraft",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=RoadCraft"
+  },
+  {
+    "id": 392,
+    "title": "RoboCop: Rogue City",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/RoboCop-Rogue-City/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 393,
+    "title": "Roboquest",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Roboquest/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 394,
+    "title": "Rubber Bandits",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rubber-Bandits/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 395,
+    "title": "Rush: A Disney Pixar Adventure",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rush-A-Disney-Pixar-Adventure/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 396,
+    "title": "Ryse: Son of Rome",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Ryse-Son-of-Rome/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 397,
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/STALKER-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 398,
+    "title": "Scott Pilgrim vs the World: The Game - Complete Edition",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Scott-Pilgrim-vs-the-World-The-Game-Complete-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 399,
+    "title": "ScreamRide",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/ScreamRide/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 400,
+    "title": "Sea of Solitude",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Sea-of-Solitude/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 401,
+    "title": "Sea of Thieves",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Sea-of-Thieves/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 402,
+    "title": "Senua's Saga: Hellblade II",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Senuas-Saga-Hellblade-II/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 403,
+    "title": "Shadow of the Tomb Raider",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Shadow-of-the-Tomb-Raider/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 404,
+    "title": "Shadowrun",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Shadowrun/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 405,
+    "title": "Shadowrun Returns",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Shadowrun+Returns"
+  },
+  {
+    "id": 406,
+    "title": "Shadowrun: Dragonfall - Director's Cut",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Shadowrun:+Dragonfall+-+Director's+Cut"
+  },
+  {
+    "id": 407,
+    "title": "Shadowrun: Hong Kong - Extended Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Shadowrun:+Hong+Kong+-+Extended+Edition"
+  },
+  {
+    "id": 408,
+    "title": "Shady Part of Me",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Shady+Part+of+Me"
+  },
+  {
+    "id": 409,
+    "title": "Sifu",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Sifu/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 410,
+    "title": "SIGNALIS",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=SIGNALIS"
+  },
+  {
+    "id": 411,
+    "title": "Skate 3",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Skate-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 412,
+    "title": "skate. (2007)",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Skate-2007/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 413,
+    "title": "Skull and Bones",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Skull-and-Bones/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 414,
+    "title": "Slay The Spire",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Slay-The-Spire/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 415,
+    "title": "Sniper Elite: Resistance",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Sniper-Elite-Resistance/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 416,
+    "title": "SnowRunner",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/SnowRunner/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 417,
+    "title": "South of Midnight",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/South-of-Midnight/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 418,
+    "title": "South Park: The Fractured but Whole",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/South-Park-The-Fractured-but-Whole/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 419,
+    "title": "South Park: The Stick of Truth",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/South-Park-The-Stick-of-Truth-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 420,
+    "title": "Spiritfarer: Farewell Edition",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Spiritfarer:+Farewell+Edition"
+  },
+  {
+    "id": 421,
+    "title": "Spirittea",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Spirittea"
+  },
+  {
+    "id": 422,
+    "title": "Splitgate 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Splitgate+2"
+  },
+  {
+    "id": 423,
+    "title": "SpongeBob SquarePants: The Patrick Star Game",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=SpongeBob+SquarePants:+The+Patrick+Star+Game"
+  },
+  {
+    "id": 424,
+    "title": "Spray Paint Simulator",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Spray+Paint+Simulator"
+  },
+  {
+    "id": 425,
+    "title": "Spyro Reignited Trilogy",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Spyro-Reignited-Trilogy/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 426,
+    "title": "SSX",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/SSX/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 427,
+    "title": "Stacking",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Stacking"
+  },
+  {
+    "id": 428,
+    "title": "Star Trucker",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Star-Trucker/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 429,
+    "title": "Star Wars Battlefront",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Star-Wars-Battlefront/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 430,
+    "title": "Star Wars Battlefront II",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Star-Wars-Battlefront-II/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 431,
+    "title": "Star Wars Jedi: Fallen Order",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Star-Wars-Jedi-Fallen-Order/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 432,
+    "title": "Star Wars Jedi: Survivor",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Star-Wars-Jedi-Survivor/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 433,
+    "title": "Star Wars: Squadrons",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Star-Wars-Squadrons/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 434,
+    "title": "Starbound",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Starbound"
+  },
+  {
+    "id": 435,
+    "title": "Stardew Valley",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Stardew-Valley/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 436,
+    "title": "Starfield",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Starfield/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 437,
+    "title": "Starlink: Battle for Atlas",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Starlink-Battle-for-Atlas/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 438,
+    "title": "State of Decay 2: Juggernaut Edition",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/State-of-Decay-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 439,
+    "title": "State of Decay: Year-One",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/State-of-Decay-Year-One-Survival-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 440,
+    "title": "SteamWorld Build",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=SteamWorld+Build"
+  },
+  {
+    "id": 441,
+    "title": "Steep",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Steep/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 442,
+    "title": "Stellaris: Console Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Stellaris:+Console+Edition"
+  },
+  {
+    "id": 443,
+    "title": "Still Wakes The Deep",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Still-Wakes-The-Deep/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 444,
+    "title": "Sunset Overdrive",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Sunset-Overdrive/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 445,
+    "title": "Super Lucky's Tale",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Super-Luckys-Tale/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 446,
+    "title": "Super Mega Baseball 3",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Super+Mega+Baseball+3"
+  },
+  {
+    "id": 447,
+    "title": "SUPERHOT: MIND CONTROL DELETE",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/SUPERHOT-MIND-CONTROL-DELETE/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 448,
+    "title": "Superliminal",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Superliminal/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 449,
+    "title": "SWORN",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=SWORN"
+  },
+  {
+    "id": 450,
+    "title": "Symphonia 𝄞",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Symphonia+𝄞"
+  },
+  {
+    "id": 451,
+    "title": "Tales of Kenzera: ZAU",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Tales+of+Kenzera:+ZAU"
+  },
+  {
+    "id": 452,
+    "title": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Teenage-Mutant-Ninja-Turtles-Mutants-Unleashed/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 453,
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Teenage-Mutant-Ninja-Turtles-Shredders-Revenge/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 454,
+    "title": "Tell Me Why",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tell-Me-Why/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 455,
+    "title": "Tempopo",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Tempopo"
+  },
+  {
+    "id": 456,
+    "title": "Terraria",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Terraria/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 457,
+    "title": "The Alters",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Alters/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 458,
+    "title": "The Ascent",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Ascent/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 459,
+    "title": "The Bard's Tale ARPG : Remastered and Resnarkled",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=The+Bard's+Tale+ARPG+:+Remastered+and+Resnarkled"
+  },
+  {
+    "id": 460,
+    "title": "The Bard's Tale IV: Director's Cut",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=The+Bard's+Tale+IV:+Director's+Cut"
+  },
+  {
+    "id": 461,
+    "title": "The Bard's Tale Trilogy",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=The+Bard's+Tale+Trilogy"
+  },
+  {
+    "id": 462,
+    "title": "The Cave",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=The+Cave"
+  },
+  {
+    "id": 463,
+    "title": "The Crew 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Crew-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 464,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Oblivion/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 465,
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Elder-Scrolls-IV-Oblivion-Remastered/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 466,
+    "title": "The Elder Scrolls Online",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Elder-Scrolls-Online-Tamriel-Unlimited/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 467,
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Elder-Scrolls-V-Skyrim-Special-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 468,
+    "title": "The Evil Within",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Evil-Within/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 469,
+    "title": "The Evil Within",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=The+Evil+Within"
+  },
+  {
+    "id": 470,
+    "title": "The Evil Within 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Evil-Within-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 471,
+    "title": "THE FINALS",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Finals/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 472,
+    "title": "The Gunk",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Gunk/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 473,
+    "title": "The Outer Worlds",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Outer-Worlds/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 474,
+    "title": "The Rogue Prince of Persia",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=The+Rogue+Prince+of+Persia"
+  },
+  {
+    "id": 475,
+    "title": "The Settlers: New Allies",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Settlers-New-Allies/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 476,
+    "title": "The Sims 4",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Sims-4/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 477,
+    "title": "The Walking Dead",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Walking-Dead/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 478,
+    "title": "The Walking Dead: A New Frontier",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Walking-Dead-A-New-Frontier/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 479,
+    "title": "The Walking Dead: Michonne",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Walking-Dead-Michonne/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 480,
+    "title": "The Walking Dead: Season Two",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Walking-Dead-Season-Two/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 481,
+    "title": "The Walking Dead: The Final Season",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Walking-Dead-The-Final-Season/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 482,
+    "title": "theHunter: Call of the Wild",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/theHunter-Call-of-the-Wild/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 483,
+    "title": "Titanfall 2",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Titanfall-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 484,
+    "title": "to a T",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=to+a+T"
+  },
+  {
+    "id": 485,
+    "title": "Tom Clancy's Ghost Recon Breakpoint",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tom-Clancys-Ghost-Recon-Breakpoint/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 486,
+    "title": "Tom Clancy's Ghost Recon Wildlands",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tom-Clancys-Ghost-Recon-Wildlands/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 487,
+    "title": "Tom Clancy's Rainbow Six Extraction",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Rainbow-Six-Extraction/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 488,
+    "title": "Tom Clancy's Rainbow Six Siege X",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tom-Clancys-Rainbow-Six-Siege/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 489,
+    "title": "Tom Clancy's The Division",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/The-Division/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 490,
+    "title": "Tom Clancy's The Division 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tom-Clancys-The-Division-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 491,
+    "title": "Tomb Raider: Definitive Edition",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tomb-Raider-Definitive-Edition/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 492,
+    "title": "Tony Hawk's Pro Skater 3 + 4",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tony-Hawks-Pro-Skater-3-and-4/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 493,
+    "title": "Torment: Tides of Numenera",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Torment:+Tides+of+Numenera"
+  },
+  {
+    "id": 494,
+    "title": "Totally Accurate Battle Simulator",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Totally-Accurate-Battle-Simulator/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 495,
+    "title": "Totally Reliable Delivery Service",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Totally-Reliable-Delivery-Service/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 496,
+    "title": "Trackmania Turbo",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Trackmania-Turbo/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 497,
+    "title": "Trailmakers",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Trailmakers"
+  },
+  {
+    "id": 498,
+    "title": "Train Sim World 5",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Train+Sim+World+5"
+  },
+  {
+    "id": 499,
+    "title": "Transference",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Transference/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 500,
+    "title": "Trials Fusion",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Trials-Fusion/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 501,
+    "title": "Trials of Mana",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Trials+of+Mana"
+  },
+  {
+    "id": 502,
+    "title": "Trials of the Blood Dragon",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Trials-of-the-Blood-Dragon/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 503,
+    "title": "Trials Rising",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Trials-Rising/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 504,
+    "title": "TUNIC",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Tunic/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 505,
+    "title": "Ultimate Chicken Horse",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Ultimate-Chicken-Horse/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 506,
+    "title": "UNO",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Uno-Xbox-One/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 507,
+    "title": "Unpacking",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Unpacking/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 508,
+    "title": "Unravel",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Unravel/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 509,
+    "title": "Unravel Two",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Unravel-Two/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 510,
+    "title": "Valiant Hearts: The Great War",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Valiant-Hearts-The-Great-War/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 511,
+    "title": "VALORANT",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/VALORANT/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 512,
+    "title": "Vampire Survivors",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Vampire-Survivors/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 513,
+    "title": "Visions of Mana",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Visions-of-Mana/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 514,
+    "title": "Viva Piñata",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Viva-Pinata/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 515,
+    "title": "Viva Piñata: Trouble In Paradise",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Viva-Pinata-Trouble-In-Paradise/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 516,
+    "title": "Volcano Princess",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Volcano+Princess"
+  },
+  {
+    "id": 517,
+    "title": "War Thunder",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=War+Thunder"
+  },
+  {
+    "id": 518,
+    "title": "Warhammer 40,000: Darktide",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Warhammer-40000-Darktide/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 519,
+    "title": "Warhammer 40,000: Rogue Trader",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Warhammer+40,000:+Rogue+Trader"
+  },
+  {
+    "id": 520,
+    "title": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Warhammer+40,000:+Space+Marine+-+Master+Crafted+Edition"
+  },
+  {
+    "id": 521,
+    "title": "Warhammer: Vermintide 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Warhammer-Vermintide-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 522,
+    "title": "Wartales",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Wartales"
+  },
+  {
+    "id": 523,
+    "title": "Wasteland 2: Director's Cut",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Wasteland+2:+Director's+Cut"
+  },
+  {
+    "id": 524,
+    "title": "Wasteland 3",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wasteland-3/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 525,
+    "title": "Wasteland Remastered",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Wasteland+Remastered"
+  },
+  {
+    "id": 526,
+    "title": "Watch Dogs: Legion",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Watch-Dogs-Legion/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 527,
+    "title": "Watch_Dogs",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Watch-Dogs/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 528,
+    "title": "Watch_Dogs 2",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Watch-Dogs-2/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 529,
+    "title": "We Happy Few",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/We-Happy-Few/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 530,
+    "title": "Wheel of Fortune",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wheel-Of-Fortune/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 531,
+    "title": "Wheel World",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Wheel+World"
+  },
+  {
+    "id": 532,
+    "title": "Wild Hearts",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wild-Hearts/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 533,
+    "title": "Wildfrost",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Wildfrost"
+  },
+  {
+    "id": 534,
+    "title": "Wobbly Life",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Wobbly+Life"
+  },
+  {
+    "id": 535,
+    "title": "Wolfenstein II: The New Colossus",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wolfenstein-II-The-New-Colossus/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 536,
+    "title": "Wolfenstein: The New Order",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wolfenstein-The-New-Order/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 537,
+    "title": "Wolfenstein: The Old Blood",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wolfenstein-The-Old-Blood/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 538,
+    "title": "Wolfenstein: Youngblood",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wolfenstein-Youngblood/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 539,
+    "title": "World War Z",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/World-War-Z/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 540,
+    "title": "Wreckfest",
+    "plans": [
+      "essentials",
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wreckfest/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 541,
+    "title": "Wuchang: Fallen Feathers",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Wuchang-Fallen-Feathers/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 542,
+    "title": "Zenless Zone Zero",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/search?q=Zenless+Zone+Zero"
+  },
+  {
+    "id": 543,
+    "title": "ZOMBI",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/ZOMBI/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 544,
+    "title": "Zombie Army 4: Dead War",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Zombie-Army-4-Dead-War/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 545,
+    "title": "Zoo Tycoon: Ultimate Animal Collection",
+    "plans": [
+      "premium",
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Zoo-Tycoon-Ultimate-Animal-Collection/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 546,
+    "title": "Zuma",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Zuma/9NBLGGH5N5XJ"
+  },
+  {
+    "id": 547,
+    "title": "Zuma's Revenge!",
+    "plans": [
+      "ultimate"
+    ],
+    "url": "https://www.microsoft.com/pl-pl/p/Zumas-Revenge/9NBLGGH5N5XJ"
   }
 ]

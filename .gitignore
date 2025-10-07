@@ -12,3 +12,12 @@ Thumbs.db
 # Logs
 *.log
 npm-debug.log*
+
+# Python scraper files (not needed for deployment)
+scraper.py
+*.pyc
+__pycache__/
+
+# Source HTML file (not needed for deployment)
+All Xbox Game Pass games.html
+gamelist.md

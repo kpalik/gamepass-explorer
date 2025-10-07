@@ -30,7 +30,8 @@ gamepassexplorer/
   {
     "id": 1,
     "title": "Nazwa gry",
-    "plans": ["essentials", "premium", "ultimate"]
+    "plans": ["essentials", "premium", "ultimate"],
+    "url": "https://www.microsoft.com/pl-pl/p/nazwa-gry/ID"
   }
 ]
 ```
@@ -46,6 +47,18 @@ Aby zaktualizować listę gier, edytuj plik `games.json` zachowując powyższy f
 - `id` - unikalny identyfikator (liczba)
 - `title` - nazwa gry (string)
 - `plans` - tablica planów, w których gra jest dostępna
+- `url` - (opcjonalnie) link do sklepu Microsoft Store
+
+### Pobieranie danych z TrueAchievements
+
+Użyj skryptu `scraper.py` do automatycznego pobrania listy gier:
+
+```powershell
+pip install requests beautifulsoup4
+python scraper.py
+```
+
+Skrypt utworzy plik `games_scraped.json` z danymi pobranymi ze strony.
 
 ## Technologie
 
