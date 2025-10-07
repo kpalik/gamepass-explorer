@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Starfield",
+    "plans": ["ultimate"]
+  },
+  {
+    "id": 2,
+    "title": "Forza Horizon 5",
+    "plans": ["essentials", "premium", "ultimate"]
+  },
+  {
+    "id": 3,
+    "title": "Halo Infinite",
+    "plans": ["essentials", "premium", "ultimate"]
+  },
+  {
+    "id": 4,
+    "title": "Minecraft",
+    "plans": ["essentials", "premium", "ultimate"]
+  },
+  {
+    "id": 5,
+    "title": "Sea of Thieves",
+    "plans": ["essentials", "premium", "ultimate"]
+  },
+  {
+    "id": 6,
+    "title": "Grounded",
+    "plans": ["essentials", "premium", "ultimate"]
+  },
+  {
+    "id": 7,
+    "title": "Diablo IV",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 8,
+    "title": "Call of Duty: Modern Warfare III",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 9,
+    "title": "Lies of P",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 10,
+    "title": "Payday 3",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 11,
+    "title": "Persona 5 Royal",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 12,
+    "title": "Atomic Heart",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 13,
+    "title": "Hi-Fi Rush",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 14,
+    "title": "A Plague Tale: Requiem",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 15,
+    "title": "Pentiment",
+    "plans": ["premium", "ultimate"]
+  },
+  {
+    "id": 16,
+    "title": "Redfall",
+    "plans": ["ultimate"]
+  },
+  {
+    "id": 17,
+    "title": "Age of Empires IV",
+    "plans": ["ultimate"]
+  },
+  {
+    "id": 18,
+    "title": "Microsoft Flight Simulator",
+    "plans": ["ultimate"]
+  },
+  {
+    "id": 19,
+    "title": "Gears 5",
+    "plans": ["ultimate"]
+  },
+  {
+    "id": 20,
+    "title": "Forza Motorsport",
+    "plans": ["ultimate"]
+  }
+]
