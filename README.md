@@ -49,17 +49,6 @@ Aby zaktualizować listę gier, edytuj plik `games.json` zachowując powyższy f
 - `plans` - tablica planów, w których gra jest dostępna
 - `url` - (opcjonalnie) link do sklepu Microsoft Store
 
-### Pobieranie danych z TrueAchievements
-
-Użyj skryptu `scraper.py` do automatycznego pobrania listy gier:
-
-```powershell
-pip install requests beautifulsoup4
-python scraper.py
-```
-
-Skrypt utworzy plik `games_scraped.json` z danymi pobranymi ze strony.
-
 ## Technologie
 
 - HTML5
