@@ -17,6 +17,8 @@ function initializeApp() {
     displayAllGames();
     displayGamesByPlan();
     setupSearchListener();
+    // Auto-calculate lost games since migration tab is now default
+    calculateLostGames();
 }
 
 // Switch between tabs
@@ -79,9 +81,9 @@ function displayFilteredGames(query) {
     searchResults.innerHTML = filteredGames.map(game => {
         const searchUrl = `https://www.xbox.com/pl-pl/Search/Results?q=${encodeURIComponent(game.title)}`;
         const planIcons = {
-            'essentials': '<span title="Essentials">🪙</span>',
-            'premium': '<span title="Premium">💰</span>',
-            'ultimate': '<span title="Ultimate">💵</span>'
+            'essentials': '<span title="Essentials" class="text-xs">Essentials 🪙</span>',
+            'premium': '<span title="Premium" class="text-xs">Premium 💰</span>',
+            'ultimate': '<span title="Ultimate" class="text-xs">Ultimate 💵</span>'
         };
         return `
         <div class="bg-white rounded-lg shadow-sm p-3 hover:shadow-md transition border border-gray-200">
@@ -132,20 +134,13 @@ function displayGamesByPlan() {
     });
 }
 
+// Store lost games globally for filtering
+let currentLostGames = [];
+
 // Calculate lost games when migrating plans
 function calculateLostGames() {
     const currentPlan = document.getElementById('currentPlan').value;
     const newPlan = document.getElementById('newPlan').value;
-    
-    if (!currentPlan || !newPlan) {
-        alert('Proszę wybrać oba plany');
-        return;
-    }
-    
-    if (currentPlan === newPlan) {
-        alert('Wybierz różne plany');
-        return;
-    }
     
     // Define plan hierarchy
     const planHierarchy = {
@@ -155,9 +150,11 @@ function calculateLostGames() {
         'none': 0
     };
     
-    // Check if it's a downgrade
-    if (planHierarchy[newPlan] >= planHierarchy[currentPlan]) {
-        alert('Nowy plan musi być niższy niż obecny plan');
+    // Check if it's the same plan or upgrade
+    if (currentPlan === newPlan || planHierarchy[newPlan] >= planHierarchy[currentPlan]) {
+        // Hide results and show message
+        document.getElementById('lostGamesResult').classList.add('hidden');
+        document.getElementById('noLostGames').classList.add('hidden');
         return;
     }
     
@@ -181,38 +178,75 @@ function calculateLostGames() {
     if (lostGames.length === 0) {
         lostGamesResult.classList.add('hidden');
         noLostGames.classList.remove('hidden');
+        currentLostGames = [];
     } else {
         noLostGames.classList.add('hidden');
         lostGamesResult.classList.remove('hidden');
         
-        lostGamesTitle.textContent = `⚠️ Utracisz dostęp do następujących ${lostGames.length} gier:`;
-        lostGamesList.innerHTML = lostGames
-            .sort((a, b) => a.title.localeCompare(b.title))
-            .map(game => {
-                const searchUrl = `https://www.xbox.com/pl-pl/Search/Results?q=${encodeURIComponent(game.title)}`;
-                const planIcons = {
-                    'essentials': '<span title="Essentials">🪙</span>',
-                    'premium': '<span title="Premium">💰</span>',
-                    'ultimate': '<span title="Ultimate">💵</span>'
-                };
-                return `
-                <div class="bg-white rounded-lg p-3 border border-red-200">
-                    <div class="flex items-center justify-between gap-3">
-                        <p class="font-semibold text-gray-900 flex-1">${game.title}</p>
-                        <div class="flex items-center gap-2 flex-shrink-0">
-                            <div class="flex items-center">
-                                ${game.plans.map(plan => planIcons[plan]).join('<span class="text-gray-400 mx-1">/</span>')}
-                            </div>
-                            <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" 
-                               class="text-blue-600 hover:text-blue-800" title="Wyszukaj w sklepie">
-                                🔍
-                            </a>
+        // Store sorted lost games globally
+        currentLostGames = lostGames.sort((a, b) => a.title.localeCompare(b.title));
+        
+        // Setup filter listener
+        const filterInput = document.getElementById('lostGamesFilter');
+        filterInput.value = ''; // Clear filter
+        filterInput.removeEventListener('input', filterLostGames); // Remove old listener
+        filterInput.addEventListener('input', filterLostGames); // Add new listener
+        
+        // Display all lost games
+        displayLostGames(currentLostGames);
+    }
+}
+
+// Filter lost games based on search query
+function filterLostGames(e) {
+    const query = e.target.value.toLowerCase();
+    const filtered = currentLostGames.filter(game => 
+        game.title.toLowerCase().includes(query)
+    );
+    displayLostGames(filtered);
+}
+
+// Display lost games list
+function displayLostGames(gamesToDisplay) {
+    const lostGamesList = document.getElementById('lostGamesList');
+    const lostGamesTitle = document.getElementById('lostGamesTitle');
+    
+    lostGamesTitle.textContent = `⚠️ Utracisz dostęp do następujących ${currentLostGames.length} gier${gamesToDisplay.length !== currentLostGames.length ? ` (pokazano ${gamesToDisplay.length})` : ''}:`;
+    
+    if (gamesToDisplay.length === 0) {
+        lostGamesList.innerHTML = `
+            <div class="text-center py-8">
+                <p class="text-gray-600">Nie znaleziono gier pasujących do filtra</p>
+            </div>
+        `;
+        return;
+    }
+    
+    lostGamesList.innerHTML = gamesToDisplay
+        .map(game => {
+            const searchUrl = `https://www.xbox.com/pl-pl/Search/Results?q=${encodeURIComponent(game.title)}`;
+            const planIcons = {
+                'essentials': '<span title="Essentials" class="text-xs">Essentials 🪙</span>',
+                'premium': '<span title="Premium" class="text-xs">Premium 💰</span>',
+                'ultimate': '<span title="Ultimate" class="text-xs">Ultimate 💵</span>'
+            };
+            return `
+            <div class="bg-white rounded-lg p-3 border border-red-200">
+                <div class="flex items-center justify-between gap-3">
+                    <p class="font-semibold text-gray-900 flex-1">${game.title}</p>
+                    <div class="flex items-center gap-2 flex-shrink-0">
+                        <div class="flex items-center">
+                            ${game.plans.map(plan => planIcons[plan]).join('<span class="text-gray-400 mx-1">/</span>')}
                         </div>
+                        <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" 
+                           class="text-blue-600 hover:text-blue-800" title="Wyszukaj w sklepie">
+                            🔍
+                        </a>
                     </div>
                 </div>
-            `;
-            }).join('');
-    }
+            </div>
+        `;
+        }).join('');
 }
 
 // Load games when page loads
@@ -222,4 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Set default values for migration tab
     document.getElementById('currentPlan').value = 'ultimate';
     document.getElementById('newPlan').value = 'premium';
+    
+    // Ensure migration tab is properly initialized as active
+    switchTab('migration');
 });
